@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TemplateService.Api.Controllers.TemplatesController",
+    "Method": "Create",
+    "RelativePath": "api/Templates",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "template",
+        "Type": "XXXXMedia.Shared.Persistence.Entities.Template",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
