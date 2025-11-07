@@ -1,0 +1,14 @@
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.API\wwwroot\admin-dashboard.html
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.API\wwwroot\js\client.js
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.API\wwwroot\js\auth.js
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.API\wwwroot\index.html
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.API\wwwroot\client-dashboard.html
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.API\wwwroot\css\styles.css
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.API\wwwroot\js\admin.js
+wwwroot\admin-dashboard.html
+wwwroot\client-dashboard.html
+wwwroot\css\styles.css
+wwwroot\index.html
+wwwroot\js\admin.js
+wwwroot\js\auth.js
+wwwroot\js\client.js
