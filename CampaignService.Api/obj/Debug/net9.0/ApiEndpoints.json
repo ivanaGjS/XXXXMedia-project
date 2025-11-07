@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "CampaignService.Api.Controllers.CampaignsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Campaigns",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampaignService.Api.Controllers.CampaignsController",
+    "Method": "GetById",
+    "RelativePath": "api/Campaigns/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CampaignService.Api.Controllers.CampaignsController",
+    "Method": "CreateCampaign",
+    "RelativePath": "api/Campaigns/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CampaignService.Api.DTOs.CampaignRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
