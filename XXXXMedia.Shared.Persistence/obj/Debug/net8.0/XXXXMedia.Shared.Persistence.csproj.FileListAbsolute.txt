@@ -1,0 +1,12 @@
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\bin\Debug\net8.0\XXXXMedia.Shared.Persistence.deps.json
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\bin\Debug\net8.0\XXXXMedia.Shared.Persistence.dll
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\bin\Debug\net8.0\XXXXMedia.Shared.Persistence.pdb
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\obj\Debug\net8.0\XXXXMedia.Shared.Persistence.csproj.AssemblyReference.cache
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\obj\Debug\net8.0\XXXXMedia.Shared.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\obj\Debug\net8.0\XXXXMedia.Shared.Persistence.AssemblyInfoInputs.cache
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\obj\Debug\net8.0\XXXXMedia.Shared.Persistence.AssemblyInfo.cs
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\obj\Debug\net8.0\XXXXMedia.Shared.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\obj\Debug\net8.0\XXXXMedia.Shared.Persistence.dll
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\obj\Debug\net8.0\refint\XXXXMedia.Shared.Persistence.dll
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\obj\Debug\net8.0\XXXXMedia.Shared.Persistence.pdb
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.Persistence\obj\Debug\net8.0\ref\XXXXMedia.Shared.Persistence.dll

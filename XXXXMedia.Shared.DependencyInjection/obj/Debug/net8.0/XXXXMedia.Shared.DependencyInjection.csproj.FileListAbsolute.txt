@@ -1,0 +1,15 @@
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\bin\Debug\net8.0\XXXXMedia.Shared.DependencyInjection.deps.json
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\bin\Debug\net8.0\XXXXMedia.Shared.DependencyInjection.dll
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\bin\Debug\net8.0\XXXXMedia.Shared.DependencyInjection.pdb
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\bin\Debug\net8.0\XXXXMedia.Shared.Persistence.dll
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\bin\Debug\net8.0\XXXXMedia.Shared.Persistence.pdb
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\obj\Debug\net8.0\XXXXMedia.Shared.DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\obj\Debug\net8.0\XXXXMedia.Shared.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\obj\Debug\net8.0\XXXXMedia.Shared.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\obj\Debug\net8.0\XXXXMedia.Shared.DependencyInjection.AssemblyInfo.cs
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\obj\Debug\net8.0\XXXXMedia.Shared.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\obj\Debug\net8.0\XXXXMedi.70F20FBA.Up2Date
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\obj\Debug\net8.0\XXXXMedia.Shared.DependencyInjection.dll
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\obj\Debug\net8.0\refint\XXXXMedia.Shared.DependencyInjection.dll
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\obj\Debug\net8.0\XXXXMedia.Shared.DependencyInjection.pdb
+C:\Users\Ivana\source\repos\XXXXMediaCreation\src\XXXXMedia.Shared.DependencyInjection\obj\Debug\net8.0\ref\XXXXMedia.Shared.DependencyInjection.dll
